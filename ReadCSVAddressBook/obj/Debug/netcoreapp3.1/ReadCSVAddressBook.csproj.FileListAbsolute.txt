@@ -1,0 +1,17 @@
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\bin\Debug\netcoreapp3.1\ReadCSVAddressBook.exe
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\bin\Debug\netcoreapp3.1\ReadCSVAddressBook.deps.json
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\bin\Debug\netcoreapp3.1\ReadCSVAddressBook.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\bin\Debug\netcoreapp3.1\ReadCSVAddressBook.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\bin\Debug\netcoreapp3.1\ReadCSVAddressBook.dll
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\bin\Debug\netcoreapp3.1\ReadCSVAddressBook.pdb
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\obj\Debug\netcoreapp3.1\ReadCSVAddressBook.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\obj\Debug\netcoreapp3.1\ReadCSVAddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\obj\Debug\netcoreapp3.1\ReadCSVAddressBook.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\obj\Debug\netcoreapp3.1\ReadCSVAddressBook.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\obj\Debug\netcoreapp3.1\ReadCSVAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\obj\Debug\netcoreapp3.1\ReadCSVAddressBook.csproj.CopyComplete
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\obj\Debug\netcoreapp3.1\ReadCSVAddressBook.dll
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\obj\Debug\netcoreapp3.1\ReadCSVAddressBook.pdb
+C:\Users\91807\Desktop\Batch67\ReadCSVAddressBook\obj\Debug\netcoreapp3.1\ReadCSVAddressBook.genruntimeconfig.cache
