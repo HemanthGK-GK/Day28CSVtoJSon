@@ -1,0 +1,17 @@
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\bin\Debug\netcoreapp3.1\JSONtoCSV.exe
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\bin\Debug\netcoreapp3.1\JSONtoCSV.deps.json
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\bin\Debug\netcoreapp3.1\JSONtoCSV.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\bin\Debug\netcoreapp3.1\JSONtoCSV.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\bin\Debug\netcoreapp3.1\JSONtoCSV.dll
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\bin\Debug\netcoreapp3.1\JSONtoCSV.pdb
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\obj\Debug\netcoreapp3.1\JSONtoCSV.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\obj\Debug\netcoreapp3.1\JSONtoCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\obj\Debug\netcoreapp3.1\JSONtoCSV.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\obj\Debug\netcoreapp3.1\JSONtoCSV.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\obj\Debug\netcoreapp3.1\JSONtoCSV.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\obj\Debug\netcoreapp3.1\JSONtoCSV.csproj.CopyComplete
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\obj\Debug\netcoreapp3.1\JSONtoCSV.dll
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\obj\Debug\netcoreapp3.1\JSONtoCSV.pdb
+C:\Users\91807\Desktop\Batch67\JSONtoCSV\obj\Debug\netcoreapp3.1\JSONtoCSV.genruntimeconfig.cache

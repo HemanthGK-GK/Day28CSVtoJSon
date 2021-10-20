@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ped9TTk0feyR5c8llSj4BB8XoSMmxSpSz5odBqyfqgLFqLGCCGh2nF17AdH34/wKeb/7b2sd7gNYO0GxD3PVVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91807\\Desktop\\Batch67\\JSONtoCSV\\JSONtoCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91807\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\91807\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\91807\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

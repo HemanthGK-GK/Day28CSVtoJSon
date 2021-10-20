@@ -1,0 +1,29 @@
+[
+  {
+    "Fname": "Virat",
+    "Lname": "Kohli",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Zipcode": "501402",
+    "Phnum": "8754219565",
+    "Email": "virat@gmail.com"
+  },
+  {
+    "Fname": "Suresh",
+    "Lname": "Raina",
+    "City": "Delhi",
+    "State": "Delhi",
+    "Zipcode": "956412",
+    "Phnum": "9586513424",
+    "Email": "Raina@gmail.com"
+  },
+  {
+    "Fname": "Dhoni",
+    "Lname": "Ms",
+    "City": "Chanai",
+    "State": "TamilNadu",
+    "Zipcode": "784512",
+    "Phnum": "4815592646",
+    "Email": "MSD@gmail.com"
+  }
+]
