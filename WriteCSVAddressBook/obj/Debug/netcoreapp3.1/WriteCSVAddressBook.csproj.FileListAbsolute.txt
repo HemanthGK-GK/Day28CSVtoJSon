@@ -1,0 +1,17 @@
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\bin\Debug\netcoreapp3.1\WriteCSVAddressBook.exe
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\bin\Debug\netcoreapp3.1\WriteCSVAddressBook.deps.json
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\bin\Debug\netcoreapp3.1\WriteCSVAddressBook.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\bin\Debug\netcoreapp3.1\WriteCSVAddressBook.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\bin\Debug\netcoreapp3.1\WriteCSVAddressBook.dll
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\bin\Debug\netcoreapp3.1\WriteCSVAddressBook.pdb
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\obj\Debug\netcoreapp3.1\WriteCSVAddressBook.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\obj\Debug\netcoreapp3.1\WriteCSVAddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\obj\Debug\netcoreapp3.1\WriteCSVAddressBook.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\obj\Debug\netcoreapp3.1\WriteCSVAddressBook.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\obj\Debug\netcoreapp3.1\WriteCSVAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\obj\Debug\netcoreapp3.1\WriteCSVAddressBook.csproj.CopyComplete
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\obj\Debug\netcoreapp3.1\WriteCSVAddressBook.dll
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\obj\Debug\netcoreapp3.1\WriteCSVAddressBook.pdb
+C:\Users\91807\Desktop\Batch67\WriteCSVAddressBook\obj\Debug\netcoreapp3.1\WriteCSVAddressBook.genruntimeconfig.cache
